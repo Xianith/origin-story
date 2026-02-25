@@ -7,4 +7,5 @@ Entirely vibe coded, cause why not.
 
 ## Submitting Issues
 Please use in game features to submit issues and describe what's happening. 
+
 They'll be pulled to the private repo and bounced back with further questions as claude works on fixing them.
